@@ -5,7 +5,7 @@
 ## About the project :
 Driver insurance claims prediction is a project which uses data mining techniques to predict if a customer of an auto insurance is going to file a claim in a year.
 The dataset of customers used is from the Kaggle competition - https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction/data?select=train.csv
-(As the dataset was bigger than the allowed limit it can be downloaded from the above link)
+(As the dataset was bigger than the allowed limit it could not be uploaded and can be downloaded from the above link)
 ### We have performed data preprocessing involving steps like :
 1. Removing NAN values
 2. Removing uncorrelated and zero correlated features
